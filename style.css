@@ -1,0 +1,164 @@
+.wrapper{
+	background:#808000;
+	height:1400px;
+	width:1000px;
+	border: solid 4px #000;
+	margin:0 auto;
+}
+.topmenu{
+	font-size:20px;
+	height:250px;
+	width:860px;
+	background:#fff;
+	margin:30 auto;
+	border:10px solid #FFFF00;
+	border-radius: 10px;
+}
+.maintext{
+	height:270px;
+	width:860px;
+	background:#FF0000;
+	margin:30 auto;
+	padding: 20 20 20 20;
+	border-radius: 10px;
+	border: 10px solid #000080;
+}
+.lefting{
+	float:left;
+	margin: 20 20 20 20;
+}
+.righting{
+	float:right;
+	margin:30 30 30 30;
+}
+.heading{
+	border:10px solid #000080;
+	width:860px;
+	height: 100 px;
+	margin: 20 auto;
+}
+.guns{
+	border: dotted 4px #000;
+	background:#fff;
+	height: 150px;
+	width:900px;
+	margin: 40 auto;
+}
+.tents{
+	background:#fff;
+	height: 450px;
+	width:300px;
+	margin: 20 0 20 133;
+	float:left;
+}
+.tents1{
+	background:#fff;
+	height: 450px;
+	width:300px;
+	margin:20 0 20 133;
+    float:left;
+}
+
+.content{
+	height:570px;
+	width:860px;
+	background:#fff;
+	margin:30 auto;
+	padding: 20 20 20 20;
+	border-radius: 10px;
+}
+.accs{
+	border: dashed 4px #000;
+	background:#fff;
+	height: 270px;
+	width:800px;
+	margin: 50 auto;
+}
+.discount{
+	height:550px;
+	width:860px;
+	background:#556B2F;
+	margin:30 auto;
+	border-radius: 10px;
+	border: 10px groove #00FFFF;
+}
+ul2{
+	font-size:25px;
+	list-style-type: none;
+	margin: 0 15 10 15;
+}
+h1{
+	font-size:70px;
+	font-style:italic;
+	color:#541;
+	margin: 4 auto;
+}
+ul{
+	font-size:30px;
+}
+ul1{
+	font-size:20px;
+	
+}
+h2{
+	margin: 0 0 0 10;
+	font-size:30px;
+}
+p{
+	font-size:20px;
+	margin:20 20 20 20;
+}
+li{
+	font-size:20px;
+/*	margin:15 30 15 30; */
+margin: 15 auto;
+}
+p2{
+	font-style: oblique;
+	font-family: Tahoma;
+	font-size:20 px;
+	margin: 0 auto;
+}
+ul2{
+	font-size:30px;
+	margin: 20 auto 0 auto;
+	padding: auto
+}
+h3{
+	margin: 10 10 auto;
+	font-size:50px;
+}
+ul3{
+	font-size:50px;
+	margin: 0 auto 0 auto;
+	color:#fff;
+	list-style-type: none;
+	padding: auto;
+}
+p3{
+	font-size:50px;
+	margin: auto;
+	color:#fff;
+	padding: auto;
+}
+li2{
+	font-size:50px;
+	margin:15 auto;
+	color:#fff;
+	
+}
+.newsp{
+	background:#808000;
+	height:100px;
+	width:1000px;
+	border: solid 4px #000;
+	margin:0 auto;
+}
+.newsp1{
+	background:#808000;
+	height:100px;
+	width:1000px;
+	border: solid 4px #fff;
+	font-size: 100px;
+	margin:0 auto;
+}
